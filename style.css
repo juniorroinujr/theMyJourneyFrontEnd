@@ -1,0 +1,15 @@
+body{
+    color: green;
+    background-color: black;
+}
+
+#cowsay-box{
+    color: blue;
+    width: 500px;
+    justify-content: center;
+    padding: 20px;
+    background-color: aliceblue;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-top: 20px;
+}
